@@ -6,15 +6,15 @@
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 
 ## Targeting Frameworks
-- [.Net 8](docs/dotnet/README.md)
+- [.Net 8](https://learn.microsoft.com/en-us/dotnet/fundamentals/)
 
 ## C# Fundamentals
-- [Date & Time](docs/csharp/dateandtime/dateandtime.md)
-- [Value Type & Reference Type]()
-- [Equality & Comparisons]()
-- [Exceptions]()
-- [Collections]()
-  - [Array]()
+- [Date & Time](https://learn.microsoft.com/en-us/dotnet/standard/datetime/)
+- [Value Type & Reference Type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
+- [Equality & Comparisons](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/equality-comparisons)
+- [Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)
+- [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
+  - [Array](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/arrays)
   - [List]()
   - [Dictionary]()
 
