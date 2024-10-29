@@ -16,11 +16,11 @@
 - [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
   - [Array](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/arrays)
   - [List]()
-  - [Dictionary]()
+  - [Dictionary](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer)
 
 ## OOP Fundamentals
-- [Abstraction]()
-- [Encapsulation]()
-- [Inheritance]()
-- [Polymorphism]()
+- [Abstraction](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)
+- [Encapsulation](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+- [Inheritance](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance)
+- [Polymorphism](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
 
