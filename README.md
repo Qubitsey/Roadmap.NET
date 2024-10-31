@@ -15,7 +15,7 @@
 - [Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)
 - [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
   - [Array](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/arrays)
-  - [List](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0)
+  - [List]()
   - [Dictionary](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer)
 
 ## OOP Fundamentals
@@ -24,3 +24,24 @@
 - [Inheritance](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance)
 - [Polymorphism](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
 
+## Package Managers
+- [Nuget](https://learn.microsoft.com/en-us/nuget/what-is-nuget)
+
+## C# Intermediate
+- [Interfaceces](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/interfaces)
+- [Extension Methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+- [Regular Expressions](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions)
+- [Delegates & Lambdas](https://learn.microsoft.com/en-us/dotnet/standard/delegates-lambdas)
+- [Events](https://learn.microsoft.com/en-us/dotnet/standard/events/)
+- [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
+   - [IEnumerable](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1?view=net-8.0)
+   - [IQueryable](https://learn.microsoft.com/en-us/dotnet/api/system.linq.iqueryable-1?view=net-8.0)
+   - [Query Syntax](https://learn.microsoft.com/en-us/dotnet/csharp/linq/standard-query-operators/)
+   - [Method Syntax](https://learn.microsoft.com/en-us/dotnet/csharp/linq/how-to-extend-linq)
+- [Asynchronous & Parallel Programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
+   - [I/O Operations](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios)
+   - [Thread](https://learn.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading)
+   - [Task](https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=net-8.0)
+   - [Async/Await](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/task-asynchronous-programming-model)
+   - [Parallel](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/)
+   - [PLINQ](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/introduction-to-plinq)
