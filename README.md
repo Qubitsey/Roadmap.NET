@@ -15,7 +15,7 @@
 - [Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)
 - [Collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
   - [Array](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/arrays)
-  - [List]()
+  - [List](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0)
   - [Dictionary](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer)
 
 ## OOP Fundamentals
