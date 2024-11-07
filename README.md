@@ -45,3 +45,52 @@
    - [Async/Await](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/task-asynchronous-programming-model)
    - [Parallel](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/)
    - [PLINQ](https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/introduction-to-plinq)
+
+ ## C# Advanced
+- [Attributes](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/attributes)
+- [Concurrent Collections](https://learn.microsoft.com/en-us/dotnet/api/system.collections.concurrent?view=net-8.0)
+- [Reflection](https://learn.microsoft.com/en-us/dotnet/fundamentals/reflection/reflection)
+- [Dynamic C#](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/interop/using-type-dynamic)
+- [Cryptography](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography?view=net-8.0)
+   - [Hash Algorithms](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.hashalgorithm?view=net-8.0)
+   - [Symmetric Algorithms](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.symmetricalgorithm?view=net-8.0)
+   - [Asymmetric Algorithms](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.asymmetricalgorithm?view=net-8.0)
+   - [Digital Signature](https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.dsa?view=net-8.0)
+ 
+ ## Working with Data
+ - [Files & Stream](https://learn.microsoft.com/en-us/dotnet/standard/io/)
+ - [XML](https://learn.microsoft.com/en-us/dotnet/api/system.xml?view=net-8.0)
+ - [JSON](https://learn.microsoft.com/en-us/dotnet/api/system.text.json?view=net-8.0)
+ - [Nulls](https://learn.microsoft.com/en-us/dotnet/fundamentals/runtime-libraries/system-nullable)
+ - [IDisposable](https://learn.microsoft.com/en-us/dotnet/api/system.idisposable?view=net-8.0)
+ - [Serializing & Desearializing](https://learn.microsoft.com/en-us/dotnet/standard/serialization/)
+ - [Objects Mapping](https://learn.microsoft.com/en-us/dotnet/api/system.data.mappingtype?view=net-8.0)
+
+ ## Storages
+ - [Directories & Files](https://learn.microsoft.com/en-us/windows/win32/fileio/file-systems)
+ - [FTP & FTPS](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-ftps/1773054f-20e4-44ac-9046-13f43cde60cf)
+ - [SFPT](https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support)
+ - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage/blobs/)
+
+ ## Document Manipulation Libraries
+ - [CSVHelper](https://www.nuget.org/packages/CsvHelper)
+ - [OpenXML](https://www.nuget.org/packages/DocumentFormat.OpenXml)
+ - [ExcelDataReader](https://www.nuget.org/packages/ExcelDataReader)
+ - [ClosedXML](https://www.nuget.org/packages/ClosedXML)
+
+ ## Relational Database
+ - [Microsoft SQL](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
+ - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql)
+ - [PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/)
+
+ ## NoSQL Database
+ - [MongoDB](https://www.mongodb.com/docs/languages/csharp/)
+ - [Redis](https://redis.io/docs/latest/develop/connect/clients/dotnet/)
+ - [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
+
+
+ 
+
+
+
+
