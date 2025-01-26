@@ -1,0 +1,38 @@
+Propósito principal:
+Buscamos un desarrollador full stack altamente calificado para unirse a nuestro dinámico y ágil equipo de desarrollo rápido de aplicaciones. El candidato ideal será responsable del desarrollo de aplicaciones web de principio a fin, asegurando una integración perfecta entre los componentes front-end y back-end. Este puesto requiere un sólido conocimiento de las tecnologías tanto del lado del cliente como del lado del servidor, donde será responsable de crear aplicaciones eficientes, escalables y fáciles de usar.   
+
+Esta es una gran oportunidad para trabajar en un entorno comercial de ritmo rápido, desempeñando un papel vital en un entorno comercial en tiempo real basado en datos. Nuestro enfoque en la excelencia y la innovación nos impulsa a buscar personas trabajadoras que sean apasionadas por la ingeniería de software y ansiosas por generar un impacto significativo en la industria. 
+
+El puesto requiere reubicación en Uruguay (pagada por la empresa).
+Conocimientos, habilidades y capacidades, responsabilidades clave:
+Conocimientos y habilidades:
+
+Competencia en tecnologías front-end: sólidas habilidades en Javascript, Typescript, CSS y experiencia con marcos como React, Angular o Blazor.
+Competencia en desarrollo back-end: Sólida comprensión de lenguajes del lado del servidor como C#, Java o Python y marcos como Spring MVC, ASP.NET o Django
+Experiencia en gestión de bases de datos: escritura de consultas de alto rendimiento en RDBM como Oracle.
+Experiencia en desarrollo e integración de API: diseño y trabajo con API RESTful y/o GraphQL.
+Experiencia con metodologías ágiles: comprensión de las metodologías ágiles y Scrum, con capacidad de trabajar en un entorno de desarrollo iterativo de ritmo rápido.
+Familiarizado con servicios en la nube: plataformas en la nube como AWS, Azure o Google Cloud.
+Familiarizado con sistemas de control de versiones: Familiarizado con plataformas como GitHub o GitLab.
+Familiarizado con DevOps y CI/CD: familiarizado con prácticas y herramientas como Docker, Kubernetes, Jenkins o Travis CI.
+Habilidades para resolver problemas: Excelentes habilidades analíticas y de resolución de problemas, con un enfoque en soluciones innovadoras y prácticas.
+Comunicación y colaboración: sólidas habilidades de comunicación verbal y escrita, con capacidad para trabajar eficazmente en equipo y colaborar con partes interesadas multifuncionales.
+Atención al detalle: Alto nivel de atención al detalle, garantizando la calidad y precisión del código y la documentación.
+Aprendizaje continuo: compromiso de mantenerse actualizado con las tecnologías emergentes y las mejores prácticas en el desarrollo full stack.
+Gestión del tiempo: Capacidad para gestionar múltiples tareas y proyectos simultáneamente, priorizando eficazmente para cumplir con los plazos.
+Responsabilidades clave:
+
+Gestionar y entregar proyectos relacionados con tecnología agregando valor a la empresa.
+Impulsar el cierre de nuevas solicitudes en paralelo a los proyectos en curso priorizando actividades.
+Proporcionar informes de estado periódicamente.
+Coordinar con proveedores y equipos internos ubicados en todo el mundo.
+Comprenda el impacto de los problemas y los riesgos y comunique cualquier inquietud al líder de su equipo.
+Relaciones clave y descripción general del departamento:
+Relaciones clave y descripción general del departamento
+Gestión del ciclo de vida del desarrollo: gestione el ciclo de vida del desarrollo de extremo a extremo de una variedad de aplicaciones, garantizando un rendimiento, una escalabilidad y una confiabilidad óptimos.
+Diseño y desarrollo técnico: participar en el diseño y desarrollo técnico de mejoras de aplicaciones significativas o complejas.
+Investigación y resolución de problemas: investigar y resolver problemas de alta gravedad, identificando las causas fundamentales e implementando soluciones efectivas.
+Colaboración de requisitos: colaborar con analistas de negocios para comprender los requisitos funcionales y traducirlos en especificaciones técnicas.
+Implementación de interfaces y soluciones: trabajar en estrecha colaboración con los socios para implementar interfaces y soluciones integradas.
+Implementación y escalamiento: coordinar con los equipos de TI para implementar y escalar nuevas instancias según lo requieran las demandas de rendimiento y las necesidades comerciales en expansión.
+Gestión de riesgos y rendimiento: identifique y mitigue de forma proactiva los riesgos técnicos, los cuellos de botella del rendimiento y la degradación del sistema.
