@@ -1,0 +1,5 @@
+##[Date & Time](https://learn.microsoft.com/en-us/dotnet/standard/datetime/)
+##[Value Type & Reference Type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
+##[Equality & Comparisons](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/equality-operators)
+##[Collections & Arrays](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections)
+##[Exceptions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/exception-handling-statements)
