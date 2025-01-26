@@ -6,7 +6,7 @@
 
 ## [Targeting Frameworks](docs/framework.md)
 
-## [C# Fundamentals](docs/csharp1)
+## [C# Fundamentals](docs/csharp1.md)
 
 ## [OOP Fundamentals]()
 
